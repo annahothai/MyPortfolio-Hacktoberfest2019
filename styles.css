@@ -125,7 +125,7 @@ figure {
 hr {
   box-sizing: content-box;
   height: 0;
-  overflow: visible;
+  overflow: scroll;
 }
 
 pre {
